@@ -1,0 +1,7 @@
+c:0,c:1,c:2,c:3,c:4,c:5,c:6
+d_va:b1_b2,d_va:b6_b12,-d_va:b4_b5,d_va:b6_b11,-d_va:b4_b9,-d_va:b2_b5,-d_va:b2_b4
+d_va:b2_b5,d_va:b12_b13,d_va:b4_b9,-d_va:b10_b11,d_va:b4_b7,d_va:b2_b4,d_va:b2_b3
+-d_va:b1_b5,-d_va:b6_b13,d_va:b9_b14,-d_va:b9_b10,d_va:b7_b9,d_va:b4_b5,d_va:b3_b4
+,,-d_va:b13_b14,d_va:b9_b14,,,
+,,-d_va:b6_b13,-d_va:b13_b14,,,
+,,-d_va:b5_b6,-d_va:b6_b13,,,
